@@ -1,1 +1,1 @@
-#Added a dictionary of most common MIME types + typescript version
+### Dictionary of most common MIME types + typescript version
